@@ -508,7 +508,7 @@ def main():
                         writer.writerow(["Contact", "Name", "Father Name", "Mother Name", "DOB", "Email", "Workplace", "Vehicle", "Date Added", "Bed No", "Room No"])
                         for line in lines:
                             writer.writerow(line.strip().split(','))
-                    messagebox.showinfo("Export Success", "Data 'Students_Data.csv' mein save ho gaya hai!")
+                    messagebox.showinfo("Export Success", "Data has been added to 'Students_Data.csv'!")
                 except Exception as e:
                     messagebox.showerror("Error", f"Error aagaya: {e}")
 
