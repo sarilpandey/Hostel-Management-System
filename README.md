@@ -29,11 +29,10 @@ A comprehensive and user-friendly desktop application built using file handling 
 2.
 ## Images
 ### 1. Login Screen
-![Login Screen](<img width="1920" height="1020" alt="login" src="https://github.com/user-attachments/assets/2bd210e1-4224-432a-bc2d-f30f2886187d" />)
+![Login Screen](images/login.png)
 
 ### 2. Main Dashboard & Add Student
-![Add Student](<img width="1920" height="1020" alt="add student" src="https://github.com/user-attachments/assets/8279d37f-22b9-4f53-ab6e-06cf97933b94" />
-)
+![Add Student](images/addstudent.png)
 
 ### 3. Add Rooms
 ![Add Room](<img width="1920" height="1020" alt="add room" src="https://github.com/user-attachments/assets/55a449d9-4079-4f9e-87cc-2ad7e9831329" />
