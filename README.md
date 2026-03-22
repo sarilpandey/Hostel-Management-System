@@ -26,28 +26,36 @@ A comprehensive and user-friendly desktop application built using file handling 
    ```bash
    git clone [https://github.com/yourusername/Hostel-Management-System.git](https://github.com/yourusername/Hostel-Management-System.git)
 
+2.
 ## Images
 ### 1. Login Screen
 ![Login Screen]<img width="1920" height="1020" alt="login" src="https://github.com/user-attachments/assets/2bd210e1-4224-432a-bc2d-f30f2886187d" />
 ()
 
 ### 2. Main Dashboard & Add Student
-![Add Student](addstudent.png)
+![Add Student](<img width="1920" height="1020" alt="add student" src="https://github.com/user-attachments/assets/8279d37f-22b9-4f53-ab6e-06cf97933b94" />
+)
 
-### 2. Add Rooms
-![Add Room](addroom.png)
+### 3. Add Rooms
+![Add Room](<img width="1920" height="1020" alt="add room" src="https://github.com/user-attachments/assets/55a449d9-4079-4f9e-87cc-2ad7e9831329" />
+)
 
-### 3. In Out Timming
-![In Out Timming](inouttiming.png)
+### 4. In Out Timming
+![In Out Timming](<img width="1920" height="1020" alt="in out timing" src="https://github.com/user-attachments/assets/c40f8e5f-23df-480e-b13b-8a5ccd85e0ef" />
+)
 
-### 3. Visitors
-![Vistor](visitor.png)
+### 5. Visitors
+![Vistor](<img width="1920" height="1020" alt="visitor" src="https://github.com/user-attachments/assets/c5adf89b-3ac0-4d25-b7db-7255ee7adf2d" />
+)
 
-### 3. View Information for Student
-![View Info](studentinfo.png)
+### 6. View Information for Student
+![View Info](<img width="1920" height="1020" alt="student info" src="https://github.com/user-attachments/assets/b47baec7-6c9e-4010-8ac3-1f5231f0f53a" />
+)
 
-### 3. View Information for Room
-![View Info](roominfo.png)
+### 7. View Information for Room
+![View Info](<img width="1920" height="1020" alt="room info" src="https://github.com/user-attachments/assets/8026899d-d256-4a98-8c94-57d68a33b899" />
+)
 
-### 3. Leave Application
-![Leave Application](leave.png)
+### 8. Leave Application
+![Leave Application](<img width="1920" height="1020" alt="leave" src="https://github.com/user-attachments/assets/32ec95a7-0f30-4bba-9911-4061a11cc9b8" />
+)
