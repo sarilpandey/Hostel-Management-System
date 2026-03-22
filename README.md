@@ -26,7 +26,9 @@ A comprehensive and user-friendly desktop application built using file handling 
    ```bash
    git clone [https://github.com/yourusername/Hostel-Management-System.git](https://github.com/yourusername/Hostel-Management-System.git)
 
-2.
+2. Copy the main.pyw in your Folder or directory,make sure the file databse.py is placed with it
+   Now run the main.pyw file to run the project
+   
 ## Images
 ### 1. Login Screen
 ![Login Screen](images/login.png)
@@ -35,19 +37,19 @@ A comprehensive and user-friendly desktop application built using file handling 
 ![Add Student](images/add_student.png)
 
 ### 3. Add Rooms
-![Add Room](add_room.png)
+![Add Room](images/add_room.png)
 
 ### 4. In Out Timming
-![In Out Timming](in_out_timing.png)
+![In Out Timming](images/in_out_timing.png)
 
 ### 5. Visitors
-![Vistor](visitor.png)
+![Vistor](images/visitor.png)
 
 ### 6. View Information for Student
-![View Info](student_info.png)
+![View Info](images/student_info.png)
 
 ### 7. View Information for Room
-![View Info](room_info.png)
+![View Info](images/room_info.png)
 
 ### 8. Leave Application
-![Leave Application](leave.png)
+![Leave Application](images/leave.png)
