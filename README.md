@@ -22,12 +22,21 @@ A comprehensive and user-friendly desktop application built using file handling 
 
 ## 🚀 How to Run the Project
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/yourusername/Hostel-Management-System.git](https://github.com/yourusername/Hostel-Management-System.git)
+You can run this application on your computer using any of the following methods:
 
-2. Copy the main.pyw in your Folder or directory,make sure the file databse.py is placed with it
-   Now run the main.pyw file to run the project
+### Method 1: The Advance Way (No Terminal Window) 
+If you want to run the software like a real desktop application without the background black command prompt:
+1. Rename the `main.py` file to **`main.pyw`** (just add a 'w' at the end).
+2. Simply **double-click** the `main.pyw` file! 
+3. The UI will open directly, giving you a clean and professional experience.
+
+### Method 2: The Standard Easiest Way (Download ZIP)
+1. Click on the green **"Code"** button at the top of this repository and select **"Download ZIP"**.
+2. Extract the downloaded ZIP file on your computer.
+3. Open the extracted folder in your terminal or Command Prompt.
+4. Run the main script by typing:
+   ```bash
+   python main.py
    
 ## Images
 ### 1. Login Screen
