@@ -28,7 +28,8 @@ A comprehensive and user-friendly desktop application built using file handling 
 
 ## Images
 ### 1. Login Screen
-![Login Screen](login.png)
+![Login Screen]<img width="1920" height="1020" alt="login" src="https://github.com/user-attachments/assets/2bd210e1-4224-432a-bc2d-f30f2886187d" />
+()
 
 ### 2. Main Dashboard & Add Student
 ![Add Student](addstudent.png)
