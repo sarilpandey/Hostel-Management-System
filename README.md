@@ -32,28 +32,22 @@ A comprehensive and user-friendly desktop application built using file handling 
 ![Login Screen](images/login.png)
 
 ### 2. Main Dashboard & Add Student
-![Add Student](images/addstudent.png)
+![Add Student](images/add_student.png)
 
 ### 3. Add Rooms
-![Add Room](<img width="1920" height="1020" alt="add room" src="https://github.com/user-attachments/assets/55a449d9-4079-4f9e-87cc-2ad7e9831329" />
-)
+![Add Room](add_room.png)
 
 ### 4. In Out Timming
-![In Out Timming](<img width="1920" height="1020" alt="in out timing" src="https://github.com/user-attachments/assets/c40f8e5f-23df-480e-b13b-8a5ccd85e0ef" />
-)
+![In Out Timming](in_out_timing.png)
 
 ### 5. Visitors
-![Vistor](<img width="1920" height="1020" alt="visitor" src="https://github.com/user-attachments/assets/c5adf89b-3ac0-4d25-b7db-7255ee7adf2d" />
-)
+![Vistor](visitor.png)
 
 ### 6. View Information for Student
-![View Info](<img width="1920" height="1020" alt="student info" src="https://github.com/user-attachments/assets/b47baec7-6c9e-4010-8ac3-1f5231f0f53a" />
-)
+![View Info](student_info.png)
 
 ### 7. View Information for Room
-![View Info](<img width="1920" height="1020" alt="room info" src="https://github.com/user-attachments/assets/8026899d-d256-4a98-8c94-57d68a33b899" />
-)
+![View Info](room_info.png)
 
 ### 8. Leave Application
-![Leave Application](<img width="1920" height="1020" alt="leave" src="https://github.com/user-attachments/assets/32ec95a7-0f30-4bba-9911-4061a11cc9b8" />
-)
+![Leave Application](leave.png)
